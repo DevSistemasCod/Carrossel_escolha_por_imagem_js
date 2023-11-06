@@ -1,0 +1,1 @@
+# Carrossel_escolha_por_imagem_js
